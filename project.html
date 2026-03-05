@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- Navbar -->
+<nav>
+    <div class="nav-links">
+        <link rel="stylesheet" href="project.css">
+        <a href="travel_recommendation.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="contact.html">Contact Us</a>
+    </div>
+
+    <div class="search-area">
+        <input type="text" id="searchInput" placeholder="Search beach, temple or country">
+        <button onclick="searchRecommendation()">Search</button>
+        <button onclick="clearResults()">Clear</button>
+    </div>
+</nav>
+
+<!-- Home Section -->
+<header class="hero">
+    <h1>Explore The World</h1>
+    <p>Discover beautiful beaches, ancient temples, and amazing countries with Travel Explorer.</p>
+</header>
+
+<!-- Results Section -->
+<section id="results"></section>
+
+<script src="script.js"></script>
+</body>
+</html>

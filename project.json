@@ -1,0 +1,38 @@
+{
+  "beach": [
+    {
+      "name": "Bora Bora",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "description": "A tropical paradise with crystal clear waters."
+    },
+    {
+      "name": "Maldives",
+      "image": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+      "description": "Famous for luxury resorts and white sand beaches."
+    }
+  ],
+  "temple": [
+    {
+      "name": "Angkor Wat",
+      "image": "https://images.unsplash.com/photo-1558980664-10c236b5d6ab",
+      "description": "A historic temple complex in Cambodia."
+    },
+    {
+      "name": "Golden Temple",
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350",
+      "description": "A sacred temple located in India."
+    }
+  ],
+  "country": [
+    {
+      "name": "Japan",
+      "image": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c",
+      "description": "A country blending modern cities and tradition."
+    },
+    {
+      "name": "Switzerland",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "description": "Known for mountains and beautiful landscapes."
+    }
+  ]
+}
