@@ -1,7 +1,7 @@
 let travelData = {};
 
 // Fetch JSON Data
-fetch("travelData.json")
+fetch("project.json")
     .then(response => response.json())
     .then(data => {
         travelData = data;
